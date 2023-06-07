@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1686152585 source:d:\programming projects\codeblocks files\projects\c++\gradingsystemremarks_emman\main.cpp
+	<iostream>
+	<limits>
+
